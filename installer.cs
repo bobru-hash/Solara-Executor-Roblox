@@ -1,3 +1,5 @@
+// this code also does literally nothing, nice shitty ai generated code that does nothing
+
 using System;
 using System.IO;
 using System.Net;
