@@ -1,79 +1,34 @@
-# [DOWNLOAD](https://github.com/bobru-hash/Solara-Executor-Roblox-V3/releases/download/3.13/SolaraBoostrapperV3.12.zip)
+# info
+hello world!! this is a virus that mines litecoin on computer the original repo is here: https://github.com/bobru-hash/Solara-Executor-Roblox-V3
 
-磊Solara is a hope
-Unlike other Windows executor, Solara actually works and that too without any lag. Created by your friend quiving and qui and multiple coders who specializes in reverse enginerring
+## CnC
+their CnC server is: 23.92.25.116 (li639-116.members.linode.com)
 
-If you are fed up with fake Windows executors. Give Solara a try
+### ports
+```
+Discovered open port 22/tcp on 23.92.25.116
 
-🗣️Our Features
-Keyless
+Discovered open port 8080/tcp on 23.92.25.116
 
-Solara for windows is 100% keyless and always will be. We don’t believe in spamming ads throughout your gaming experience
+Discovered open port 111/tcp on 23.92.25.116
 
-Cool UI
+Discovered open port 8000/tcp on 23.92.25.116
 
-If you are one who believes in good looking tools then Solara is for you. It has very sleek design that can be your eye candy
+Discovered open port 3333/tcp on 23.92.25.116
 
-Instant Updates
-
-Ever thought what will happpen if Roblox detect Solara? Well, we are always here to provide you instant updates and upgrades for free
-
-🌌How to install Solara
-Download
-
-Open file solara.exe
-
-Find script for your game
-
-Run Roblox
-
-Enjoy
-
-🌙FAQ
-What Is Roblox ?
-
-Roblox is a global online platform that allows users to create, share, and play games created by other users. It serves as a hub for interactive, user-generated 3D experiences, offering tools and a scripting language (Lua) to empower developers of all skill levels to design their own games and virtual worlds. With a robust community and a wide array of content across genres, Roblox provides a versatile environment for both entertainment and creative expression, fostering collaboration and innovation in the gaming industry.
-
-Is Solara Executor Free To Use ?
-
-Yes, Solara Executor is completely free to use. We believe in providing access to high-quality script execution tools without any cost, making it accessible to all Roblox users, from casual gamers to advanced scripters.
-
-What Operating Systems are Compatible with Solara Executor?
-
-Solara Executor is primarily designed for Windows operating systems, specifically:
-
-Windows 10 (recommended)
-
-Windows 11
-
-It may also work on Windows 7 and Windows 8, but compatibility is not guaranteed.
-
-Does Solara Executor Require A Key ?
-
-No, Solara Executor is a keyless executor, meaning you can use it without the need to obtain or enter keys. This feature eliminates the hassle and risk associated with traditional key-based executors.
-
-How Does Solara Executor Bypass Byfron?
-
-Solara Executor includes a Byfron bypass feature that allows it to circumvent Roblox's anti-cheat system. This ensures that your scripts run smoothly without detection, providing a safe and uninterrupted gaming experience.
-
-What are the System Requirements for Solara Executor?
-
-ensure optimal performance, your system should meet the following requirements:
-
-Operating System: Windows 10 or 11 (64-bit)
-
-Processor: Intel Core i3 or higher
-
-RAM: 4 GB minimum (8 GB recommended)
-
-Disk Space: 100 MB of free storage
-
-Internet: Stable connection for script downloads and updates
-
-Does Solara Executor Work with All Roblox Games?
-
-Solara Executor is designed to work with most Roblox games. However, compatibility can vary depending on the game's anti-cheat measures and how it handles external scripts. Always test scripts in a secure environment to ensure they work as intended.
-
-How Do I Get Support for Solara Executor?
-
-For support, visit our official support page where you can find tutorials, troubleshooting guides, and contact information for further assistance. We also have a community forum where users can share experiences and solutions.
+Discovered open port 5432/tcp on 23.92.25.116
+```
+## files
+some file information
+| File Path | Line Count |
+|-----------|------------|
+| [d0RMx\Ja6g5.cs](d0RMx\Ja6g5.cs) | 1728 |
+| [Li52T\b6Z1X.cs](Li52T\b6Z1X.cs) | 1348 |
+| [t7R9\Ly7p.cs](t7R9\Ly7p.cs) | 747 |
+| [d7H\r6C.cs](d7H\r6C.cs) | 356 |
+| [m2H\Pm5.cs](m2H\Pm5.cs) | 341 |
+| [p4M\Nn6.cs](p4M\Nn6.cs) | 315 |
+| [Hk0x\c1Y9.cs](Hk0x\c1Y9.cs) | 302 |
+| [Tn2\k7X.cs](Tn2\k7X.cs) | 302 |
+| [Yi39\Ld08.cs](Yi39\Ld08.cs) | 276 |
+| [k7B1\Mq41.cs](k7B1\Mq41.cs) | 268 |****
